@@ -1,12 +1,10 @@
 # hw-clj-logging
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
-
-The choice is up to you!
-
+A very minimal project that does nothing but log a couple messages. 
+Useful for playing with logging configs in isolation. That's it. 
 ## Usage
 
-FIXME
+lein run
 
 ## License
 
