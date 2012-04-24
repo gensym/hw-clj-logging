@@ -1,4 +1,15 @@
-hw-clj-logging
-==============
+# hw-clj-logging
 
-Basic project to mess with clojure logging config in isolation
+I'm an app. Or maybe I'm a library? I haven't decided yet. 
+
+The choice is up to you!
+
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2012 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
